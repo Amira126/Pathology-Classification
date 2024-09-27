@@ -3,6 +3,8 @@ numpy
 notebook
 matplotlib
 seaborn
+python-box
+ensure
 tensorflow
 dvc
 python-box==6.0.2
@@ -15,4 +17,4 @@ scipy
 Flask
 Flask-Cors
 setuptools
--e .
+#-e .
